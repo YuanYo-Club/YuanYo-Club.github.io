@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on YuanYo</title>
-		<link>http://localhost:1313/posts/</link>
+		<link>https://example.org/posts/</link>
 		<description>Recent content in Posts on YuanYo</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Mon, 11 May 2020 23:20:12 +0800</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>猿遊會 - 白吃白喝#2</title>
-				<link>http://localhost:1313/posts/b/</link>
+				<link>https://example.org/posts/b/</link>
 				<pubDate>Mon, 11 May 2020 23:20:12 +0800</pubDate>
-				<guid>http://localhost:1313/posts/b/</guid>
+				<guid>https://example.org/posts/b/</guid>
 				<description>&lt;p&gt;我來測試看看蛤，好耶&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>猿遊會 - 白吃白喝#1</title>
-				<link>http://localhost:1313/posts/a/</link>
+				<link>https://example.org/posts/a/</link>
 				<pubDate>Sun, 10 May 2020 23:20:12 +0800</pubDate>
-				<guid>http://localhost:1313/posts/a/</guid>
+				<guid>https://example.org/posts/a/</guid>
 				<description>&lt;h2 id=&#34;第一場猿遊會活動&#34;&gt;&#xA;  第一場猿遊會活動&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e7%ac%ac%e4%b8%80%e5%a0%b4%e7%8c%bf%e9%81%8a%e6%9c%83%e6%b4%bb%e5%8b%95&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;我詢問了身邊的開發者、舉辦活動的人們，如果有一個活動，他是跟開發者們有關係的，希望大家可以共同的深度交流，那你們覺得最重要的是什麼？&lt;/p&gt;&#xA;&lt;p&gt;要 Chill 。&lt;/p&gt;&#xA;&lt;p&gt;答案令人意外的一致，雖然不確定這個答案可以讓猿遊會持續多久，但我先試試看用這個我搜集來的答案試試看吧。&lt;/p&gt;&#xA;&lt;p&gt;在搜集答案的時候，我其實很緊張，因為以後將持續地讓這個活動延續，這並不是一年一度結束的活動，&lt;/p&gt;&#xA;&lt;p&gt;於是我做了一個我心中猿遊會的想像簡報。&#xA;關於什麼是 猿遊會 ：&lt;a href=&#34;https://canva.link/v9gac13f2lh2r2s&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://canva.link/v9gac13f2lh2r2s&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;主要的核心還是開發者們的互相交流、聯繫，希望篩選過的參加者，可以讓開發的交流深度更加的深層&lt;/p&gt;</description>
 			</item>
 	</channel>
